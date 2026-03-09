@@ -1,9 +1,0 @@
-# reset script 
-reset.*
-reset
-
-# Python cache
-__pycache__/
-
-# Virtual environments
-.venv/
